@@ -1,7 +1,7 @@
 #   Mail via SMTP
 #   version 1.0
 #   author gamboltok
-
+#
 require "pony" #gem for mail
 require "io/console" #gem for hidden console text noecho(&:gets)
 
